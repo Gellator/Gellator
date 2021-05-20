@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Gellator
+- :star2: 
 - 👀 I’m interested in ... Game Development
 - 🌱 I’m currently learning ... C++ for Unreal Engine
 - 💞️ I’m looking to collaborate on ... C++ Games
