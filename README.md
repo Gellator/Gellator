@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gellator
 - :point_right: Pronouns: He / Him
-- :star2: I'm currently working on recreating the Cosmodrone Patrol for Destiny 1
+- :star2: I'm currently working on creating a branching dialogue system
 - 👀 I’m interested in ... Game Tool Development
 - 🌱 I’m currently learning ... Slate for Unreal Engine
 - 💞️ I’m looking to collaborate on ... C++ Games
