@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Gellator
 - :point_right: Pronouns: He / Him
-- :star2: I'm currently working on creating a branching dialogue system
+- :star2: I'm currently working on a QTE creation Pipeline using Unity Timeline's
 - 👀 I’m interested in ... Game Tool Development
-- 🌱 I’m currently learning ... Slate for Unreal Engine
-- 💞️ I’m looking to collaborate on ... C++ Games
+- 🌱 I’m currently learning ... Unity UI Elements
+- 💞️ I’m looking to collaborate on ... Unity and UE games
 - 📫 How to reach me ... spencergellner@gmail.com
 
 <!---
